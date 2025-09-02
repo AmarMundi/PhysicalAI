@@ -9,6 +9,6 @@ pg = st.navigation([st.Page("🧠Physical AI.py"), st.Page("🤖Dashboard.py")])
 pg.run()
 
 
-st.sidebar.header("Global commercial real estate services")
+st.sidebar.header("HCLTech: Physical AI")
 image = Image.open("logo.png")
 st.sidebar.image(image)
